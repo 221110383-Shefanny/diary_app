@@ -27,9 +27,9 @@ Fitur Aplikasi
 - Autentikasi pengguna disimpan di Firebase
 - Auth Data catatan disimpan di Firestore dengan field userId Query dijalankan berdasarkan userId dan urutan waktu pembuatan catatan (berhasil disimpan, namun gagal ditampilkan kembali)
 
-Link Aplikasi Live : 
+Link Aplikasi Live : https://diary-9c897.web.app/ (gagal deploy, hanya muncul layar putih blank)
 
-Video Demonstrasi : 
+Video Demonstrasi : https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221110383_students_mikroskil_ac_id/EQ0FjEHuEu9Eh3cl_aV_tVcBlDqVBGG1VRYEmT5qCQJxmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gNxkbw
 
 
 Cara Menjalankan Proyek
