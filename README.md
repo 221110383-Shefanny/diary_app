@@ -5,11 +5,11 @@ Pengguna dapat menulis, menggambar, dan menyisipkan gambar dalam satu kanvas.
 Data disimpan secara cloud melalui Firebase dan dapat dimuat kembali berdasarkan akun login. (NB : fitur muat kembali berdasarkan akun login gagal diimplementasikan)
 
 Daftar Anggota Kelompok : 
-Shefanny - [221110383]
-Charlie William Wijaya - [221110844]
-Gilbert Garvin Wijaya - [221111169]
-Nicholas Tio - [221111917]
-Bryan Yapiter - [221110930]
+- Shefanny - [221110383]
+- Charlie William Wijaya - [221110844]
+- Gilbert Garvin Wijaya - [221111169]
+- Nicholas Tio - [221111917]
+- Bryan Yapiter - [221110930]
 
 Teknologi yang Digunakan : 
 - Frontend menggunakan Flutter
